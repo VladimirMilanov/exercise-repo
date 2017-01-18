@@ -2,4 +2,5 @@
 This project will contain...
 Repository made for exercise.
 Edited again in master branch.
+Test with GitBash.
 
