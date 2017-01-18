@@ -1,4 +1,4 @@
 # exercise-repo
 This project will contain...
-Repository made for exercise.
+Repository made for exercise
 
